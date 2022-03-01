@@ -319,7 +319,7 @@ html body .db {
 }
 
 .theme-bg {
-    background: #6654F0 !important;
+    background: #f7d305 !important;
 }
 
 .dark-theme-bg {
@@ -332,11 +332,10 @@ html body .db {
 
 .trans-bg {
     background: rgba(255, 255, 255, 0.1);
-    !important;
 }
 
 .theme-bg-light {
-    background: rgba(40, 182, 97, 0.11) !important;
+    background: rgb(140, 139, 139) !important;
 }
 
 .bg-title {
@@ -344,11 +343,11 @@ html body .db {
 }
 
 .bg-trans {
-    background: rgba(0, 0, 0, 0.11) !important;
+    background: rgba(56, 56, 56, 0.11) !important;
 }
 
 .theme-cl {
-    color: #6654F0 !important;
+    color: yellow !important;
 }
 
 .dark_bg {
@@ -405,7 +404,7 @@ html body .db {
 
 .hover-theme:hover,
 .hover-theme:focus {
-    background: #6654F0 !important;
+    background: yellow !important;
     color: #ffffff !important;
 }
 
@@ -900,7 +899,7 @@ div[data-overlay] p {
 }
 
 .text-info {
-    color: #2196f3 !important;
+    color: #f7d305 !important;
 }
 
 .text-inverse {
@@ -908,7 +907,7 @@ div[data-overlay] p {
 }
 
 html body .text-blue {
-    color: #02bec9;
+    color: #f7d305;
 }
 
 html body .text-purple {
@@ -1493,7 +1492,7 @@ button.close {
     color: #6654F0;
     cursor: pointer;
     background-color: transparent;
-    border-color#6654F0;
+    border-color: #6654F0;
 }
 
 .pagination li:first-child a {
@@ -1898,7 +1897,7 @@ ul {
 
 .nav-brand {
     padding: 8px 15px;
-    font-size: 24px;
+    font-size: 35px;
     padding-left: 0;
     text-decoration: none !important
 }
@@ -4070,7 +4069,7 @@ select.form-control:focus {
     line-height: 1.5;
     color: #868e96;
     vertical-align: middle;
-    background: #fff url(data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3e%3cpolyline fill='none' stroke='%23525252' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' points='6 9 12 15 18 9'/%3e%3c/svg%3e) no-repeat right 1.5rem center/1rem 1rem;
+    /* background: #fff url(data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3e%3cpolyline fill='none' stroke='%23525252' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' points='6 9 12 15 18 9'/%3e%3c/svg%3e) no-repeat right 1.5rem center/1rem 1rem; */
     border: 1px solid #e5e5e5;
     border-radius: 0;
     -webkit-appearance: none;
