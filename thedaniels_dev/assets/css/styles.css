@@ -330,7 +330,7 @@ html body .db {
 }
 
 .theme-bg {
-    background: #f7d305 !important;
+    background: rgb(243, 203, 40) !important;
 }
 
 .dark-theme-bg {
@@ -358,7 +358,7 @@ html body .db {
 }
 
 .theme-cl {
-    color: yellow !important;
+    color: rgb(243, 203, 40) !important;
 }
 
 .dark_bg {
@@ -415,7 +415,7 @@ html body .db {
 
 .hover-theme:hover,
 .hover-theme:focus {
-    background: yellow !important;
+    background: rgb(243, 203, 40) !important;
     color: #ffffff !important;
 }
 
